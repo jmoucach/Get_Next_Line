@@ -6,7 +6,7 @@
 #    By: jmoucach <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/11/07 15:49:32 by jmoucach          #+#    #+#              #
-#    Updated: 2018/12/21 13:43:00 by jmoucach         ###   ########.fr        #
+#    Updated: 2019/01/25 18:07:56 by jmoucach         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -71,7 +71,6 @@ FILE= ./ft_putchar.c\
 	 ./ft_lstiter.c\
 	 ./ft_lstmap.c\
 	 ./ft_strrev.c\
-	 ./get_next_line.c\
 	 ./ft_sqrt.c\
 	 ./ft_replace.c\
 	 ./ft_strtrimc.c\

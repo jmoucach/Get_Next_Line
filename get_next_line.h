@@ -6,7 +6,7 @@
 /*   By: jmoucach <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/11/16 10:30:30 by jmoucach          #+#    #+#             */
-/*   Updated: 2018/12/03 15:50:41 by jmoucach         ###   ########.fr       */
+/*   Updated: 2019/01/25 18:06:41 by jmoucach         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 # define GET_NEXT_LINE_H
 
 # define BUFF_SIZE 50000
-# include "./libft/includes/libft.h"
+# include "libft/libft.h"
 # include <unistd.h>
 # include <stdlib.h>
 
